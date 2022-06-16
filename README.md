@@ -38,7 +38,7 @@
                                                                                                                                                
 ### 🔥 My Stats 
 <div>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ahmetnuriuygun&count_private=true&theme=tokyonight&showicons=true)]()
+<img src="https://github-readme-stats.vercel.app/api?username=ahmetnuriuygun&show_icons=true&theme=ADD_THEME_HERE" width="400">
 </div>
 
                                                                                                                                                
