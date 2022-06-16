@@ -2,15 +2,15 @@
 <div id="header" align="center">
   <img src="<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>"/>
+</div>
 </div>
 
 ## 👨🏽‍💻 About Me
 
 <div> 🖥 I am a Full Stack Developer a from Belgium. </div>
 <div> ⚡ T I'm working as a Software Engineer and contributing to frontend and backend for building web applications.</div>
-✉️ Exploring Technical Content Writing.
-🕺🏽 In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<div>✉️ Exploring Technical Content Writing.</div>
+<div>🕺🏽 In my free time, I solve problems on GeeksforGeeks and read tech articles.</div>
 
 # Connect with Me
 
