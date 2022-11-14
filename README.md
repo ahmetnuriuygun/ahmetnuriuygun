@@ -14,13 +14,13 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ahmet-nuri-uygun-b4b1a6233/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="100px" height="50px" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width="130px" height="30px" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/AhmetNuriUygun3">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" width="130px" height="30px" alt="Twitter Badge"/>
   </a>
    <a href="https://www.instagram.com">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link" width="130px" height="30px" alt="Twitter Badge"/>
   </a>
 </div>
 
