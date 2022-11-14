@@ -6,7 +6,7 @@
 ### 👨🏽‍💻 About Me
 
 <div> 🖥 I am a Full Stack Developer from Belgium. 🇧🇪 </div>
-<div> ⚡  I’m currently learning HTML, CSS,Javascript and React.</div>
+<div> ⚡  I’m currently studying at Thomas More Hogeschool. And I'm learning HTML, CSS, Java,Javascript and React.</div>
 <div> 🖋 Exploring Technical Content Writing.</div>
 <div>🕺🏽 In my free time, I solve problems on GeeksforGeeks and read tech articles.</div>
 
