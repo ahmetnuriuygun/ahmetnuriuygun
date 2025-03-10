@@ -5,10 +5,10 @@
 
 ### 👨🏽‍💻 About Me
 
-<div> 🖥 I am a Full Stack Developer from Belgium. 🇧🇪 </div>
-<div> ⚡  I’m currently studying at Thomas More Hogeschool. And I'm learning HTML, CSS, Java,Javascript and React.</div>
-<div> 🖋 Exploring Technical Content Writing.</div>
-<div>🕺🏽 In my free time, I solve problems on GeeksforGeeks and read tech articles.</div>
+<div>🖥 I am a Full Stack Developer, Android Developer, and UI/UX Designer from Belgium. 🇧🇪</div> 
+<div>⚡ I'm currently a third-year ICT student at Thomas More Hogeschool. Recognizing the importance of practical experience, I co-founded [Codeaway](https://www.codeaway.be/) with a classmate, where I work as a freelance developer, honing both technical and soft skills.</div>
+<div>🖋 I enjoy mentoring, product planning, requirements analysis, and problem-solving. Additionally, I'm exploring Technical Content Writing.</div>
+<div>🕺🏽 In my free time, I solve problems on GeeksforGeeks, read tech articles, and indulge in my passion for football.</div>
 
 ### 📞 Connect with Me
 
