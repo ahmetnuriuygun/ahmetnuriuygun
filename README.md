@@ -1,62 +1,71 @@
-# 🚀 Ahmet Nuri Uygun
-### Software Engineer | DevOps & Cloud Enthusiast
-
-<p align="left">
-  <a href="https://ahmetnuriuygun.be" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/ahmet-nuri-uygun-b4b1a6233/" target="_blank">💼 LinkedIn</a> • 
-  <a href="mailto:ahmetnuriuygun1@gmail.com">📧 Contact</a>
-</p>
-
----
-
-## 👨‍💻 Profile
-[cite_start]Full Stack Developer and DevOps Engineer with over 5 years of education [cite: 30] [cite_start]and professional internship experience in the IT sector[cite: 30]. [cite_start]Currently focused on building scalable cloud infrastructure and high-performance web applications[cite: 31, 36]. [cite_start]Based in **Limburg, Belgium**[cite: 6].
-
-* [cite_start]🎓 **Education:** ICT-Application Development at Thomas More[cite: 49, 50].
-* [cite_start]🛠️ **Current Focus:** AWS Web Services, Infrastructure as Code (IaC), and Next.js[cite: 31, 36].
-* [cite_start]🚀 **Entrepreneurship:** Co-Founder of **Codeaway**, providing freelance development and scalable hosting[cite: 39, 40, 42].
-
----
-
-## 🛠️ Tech Stack
-
-### 🟦 Backend & Logic
-[cite_start]`Java / Spring Boot` [cite: 10] [cite_start]• `Python / Django` [cite: 12] [cite_start]• `C# / .NET Core` [cite: 16, 46] • `Node.js`
-
-### 🟩 Frontend & Mobile
-[cite_start]`React / Next.js` [cite: 13] [cite_start]• `TypeScript` [cite: 14] [cite_start]• `Angular / Ionic` [cite: 15] [cite_start]• `Flutter` [cite: 18] • `Tailwind CSS`
-
-### 🏗️ DevOps & Cloud
-[cite_start]`AWS` [cite: 11] [cite_start]• `Docker` [cite: 20] [cite_start]• `Terraform (IaC)` [cite: 21] [cite_start]• `CI/CD Pipelines` [cite: 38] [cite_start]• `Linux & Windows Server` [cite: 22, 23]
-
----
-
-## 📈 Recent Experience
-
-#### **Randstad Digital** | [cite_start]*Internship / DevOps Engineer* (2026) [cite: 33, 34, 35]
-* [cite_start]**Cloud Infrastructure:** Engineered scalable hosting and deployment solutions using **AWS**[cite: 36].
-* [cite_start]**Automation:** Developed **Infrastructure as Code (IaC)** and automation scripts[cite: 36].
-* [cite_start]**Containerization:** Implemented advanced **Docker** strategies and **CI/CD pipelines** in Bitbucket[cite: 37, 38].
-
-#### **VR BASE** | [cite_start]*Internship / Full Stack Developer* [cite: 44, 45]
-* [cite_start]**API Development:** Built REST APIs using **.NET Core** and managed database administration[cite: 46].
-* [cite_start]**Frontend:** Focused on **UI/UX Design** and responsive development using Ant Design[cite: 47].
-
----
-
-## 📊 GitHub Activity
+<h1 align="center">Hello, I'm Ahmet Nuri 👋</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmetnuriuygun&show_icons=true&theme=transparent&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=777" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetnuriuygun&theme=transparent&hide_border=true&stroke=3178C6&ring=3178C6&fire=3178C6&currStreakLabel=3178C6" width="48%" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 
 ---
 
-## 🗣️ Languages
-* [cite_start]**Dutch:** Fluent [cite: 26]
-* [cite_start]**English:** Fluent [cite: 27]
-* [cite_start]**Turkish:** Fluent [cite: 28]
+## 👨‍💻 About Me  
+🚀 **Software Engineer | DevOps Enthusiast | [cite_start]Full Stack Developer** 📍 Based in **Limburg, Belgium 🇧🇪**   
+🎓 **ICT - Application Development at Thomas More Applied Sciences** [cite: 49, 50]  
+💼 **Internship / DevOps Engineer at Randstad Digital** [cite: 33, 34]  
+💡 Co-founder of **Codeaway** – Freelance Developer & Project Manager [cite: 39, 40, 41]  
+🧠 **Problem solver** with an open mindset and a passion for **Scalable Hosting & Automation** [cite: 31, 36, 42]  
 
+---
+
+## 🌐 Tech Stack & Skills
+### 💻 Development
+<div align="left">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="25"/>
+</div>
+
+### ☁️ DevOps & Infrastructure
+<div align="left">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-Terraform-623CE4?style=flat&logo=terraform&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-CI/CD-FFB100?style=flat&logo=bitbucket&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/-Linux_Admin-FCC624?style=flat&logo=linux&logoColor=black" height="25"/>
+</div>
+
+---
+
+## 📈 Experience Highlights
+* **DevOps @ Randstad Digital:** Automating infrastructure using **IaC (Terraform)**, managing **AWS scalable hosting**, and building **CI/CD pipelines** in Bitbucket[cite: 34, 36, 38].
+* **Freelance @ Codeaway:** Delivering scalable hosting solutions and managing client projects from end-to-end[cite: 40, 41, 42].
+* **Full Stack @ VR BASE:** Experience in **REST API** development with **.NET Core** and responsive UI design[cite: 45, 46, 47].
+
+---
+
+## 🔥 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetnuriuygun&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetnuriuygun&theme=radical" height="180"/>
+</div>
+
+---
+
+## 📞 Connect with Me  
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <a href="https://ahmetnuriuygun.be" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge&logo=google-chrome&logoColor=white" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ahmet-nuri-uygun-b4b1a6233/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  </a>
+  <a href="mailto:ahmetnuriuygun1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+  </a>
 </p>
+
+---
+
+🚀 **"Always learning, always building!"** 🚀
