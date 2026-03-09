@@ -6,11 +6,9 @@
 ---
 
 ## 👨‍💻 About Me  
-🚀 **Software Engineer | DevOps Enthusiast | [cite_start]Full Stack Developer** 📍 Based in **Limburg, Belgium 🇧🇪**   
-🎓 **ICT - Application Development at Thomas More Applied Sciences** [cite: 49, 50]  
-💼 **Internship / DevOps Engineer at Randstad Digital** [cite: 33, 34]  
-💡 Co-founder of **Codeaway** – Freelance Developer & Project Manager [cite: 39, 40, 41]  
-🧠 **Problem solver** with an open mindset and a passion for **Scalable Hosting & Automation** [cite: 31, 36, 42]  
+🚀 **Software Engineer | DevOps Enthusiast | Full Stack Developer** 
+📍 Based in **Limburg, Belgium 🇧🇪**   
+💡 Co-founder of **Codeaway** – Freelance Developer & Project Manager   
 
 ---
 
@@ -38,10 +36,6 @@
 
 ---
 
-## 📈 Experience Highlights
-* **DevOps @ Randstad Digital:** Automating infrastructure using **IaC (Terraform)**, managing **AWS scalable hosting**, and building **CI/CD pipelines** in Bitbucket[cite: 34, 36, 38].
-* **Freelance @ Codeaway:** Delivering scalable hosting solutions and managing client projects from end-to-end[cite: 40, 41, 42].
-* **Full Stack @ VR BASE:** Experience in **REST API** development with **.NET Core** and responsive UI design[cite: 45, 46, 47].
 
 ---
 
@@ -68,4 +62,4 @@
 
 ---
 
-🚀 **"Always learning, always building!"** 🚀
+🚀 **"Even if I were the one to discover water on Mars, my next goal would be to figure out how to make the first coffee there. "** 🚀
