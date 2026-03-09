@@ -1,4 +1,3 @@
-# 🚀 Ahmet Nuri Uygun
 ### Software Engineer | DevOps & Cloud Enthusiast
 
 <p align="left">
@@ -59,4 +58,4 @@
 
 
 
-🚀 **"Even if I were the one to discover water on Mars, my next goal would be to figure out how to make the first coffee there. "** 🚀
+🚀 **"Even if I were the one to discover water on Mars, my next goal would be to figure out how to make the first coffee there. "** 
