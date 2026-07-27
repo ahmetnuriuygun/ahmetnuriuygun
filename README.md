@@ -1,4 +1,4 @@
-### Software Engineer | DevOps & Cloud Enthusiast | Full Stack Developer
+### Software Engineer  | Full Stack Developer | DevOps & Cloud Enthusiast
 
 <p align="left">
   <a href="https://ahmetnuriuygun.be" target="_blank">🌐 Portfolio</a> • 
