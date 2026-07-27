@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black" height="25"/>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white" height="25"/>
@@ -58,7 +59,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmetnuriuygun&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetnuriuygun&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com/?user=ahmetnuriuygun&theme=radical" height="180"/>
 </div>
 
 ---
