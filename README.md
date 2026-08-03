@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  Full Stack Developer and DevOps Engineer with a strong foundation in modern web and cloud technologies. 
+Full Stack Developer and DevOps Engineer with a strong foundation in modern web and cloud technologies. 
 Experienced in Next.js, .NET, TypeScript, Angular, Docker container services and cloud-native deployment. 
 
 I  make responsible and efficient use of AI, integrating it into my  workflow as a guide and helper to accelerate and improve the projects I  build. 
